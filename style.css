@@ -97,7 +97,7 @@ body {
   line-height: 1.6;
   font-weight: 300;
   font-family: "futura-pt", Helvetica, Arial, sans-serif;
-  background-color: #f6e8e5;
+  background-color: #fff4a2;
   color: #363030; }
 
 .logo{background:url(images/logo.png) no-repeat; width:67px; height:69px;margin-top:8%;}
@@ -245,7 +245,7 @@ input[type="button"] {
   text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
-  background-color: #f6e8e5;
+  background-color: #fff4a2;
   background-image:url(images/pdf2x.png);
   background-repeat: no-repeat;
   background-position:right;
